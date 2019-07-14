@@ -1,5 +1,6 @@
 # panelViewStata
-Stata Version of Panel View
+Stata Version of [`panelView`][1]
+[1]: https://github.com/xuyiqing/panelView
 
 For the latest report, please refer to [The Latest Report][1].
 
