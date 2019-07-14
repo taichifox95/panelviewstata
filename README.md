@@ -1,8 +1,8 @@
 # panelViewStata
 Stata Version of [panelView][1].
 
-
-For the latest report, please refer to [The Latest Report][2].
+## Introduction
+For a brief introduction of what we are doing, please refer to [The Latest Report][2].
 
 [1]: https://github.com/xuyiqing/panelView
 [2]: /03report/7.14report.md
