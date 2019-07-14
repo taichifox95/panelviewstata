@@ -9,7 +9,7 @@ For the latest report, please refer to [The Latest Report][1].
 
 To obtain the latest version through github, from the main window in Stata, run:
 ```
-net describe ritest, from(https://raw.githubusercontent.com/taichifox95/panelviewstata/master)
+net describe panelview, from(https://raw.githubusercontent.com/taichifox95/panelviewstata/master)
 ```
 
 ## Warining
