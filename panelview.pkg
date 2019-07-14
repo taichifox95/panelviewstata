@@ -1,0 +1,11 @@
+v 1
+d Author: taichifox95
+d panelview visualizes panel data.
+d
+d Date: Jul 15 2019
+
+f panelview.ado
+f panelview.sthlp
+f simdata.dta
+f capacity.dta
+f turnout.dta
