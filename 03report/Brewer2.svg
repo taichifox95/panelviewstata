@@ -1,0 +1,1113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 15.1 generated SVG file (http://www.stata.com) -->
+
+<svg version="1.1" width="5.50in" height="4.00in" viewBox="0 0 3960 2880" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>Stata Graph - Graph</desc>
+	<rect x="0" y="0" width="3960" height="2880" style="fill:#EAF2F3;stroke:none"/>
+	<rect x="0.00" y="0.00" width="3959.88" height="2880.00" style="fill:#FFFFFF"/>
+	<rect x="2.88" y="2.88" width="3954.12" height="2874.24" style="fill:none;stroke:#FFFFFF;stroke-width:5.76"/>
+	<rect x="533.73" y="232.16" width="3368.60" height="2469.01" style="fill:#FFFFFF"/>
+	<rect x="536.61" y="235.04" width="3362.84" height="2463.25" style="fill:none;stroke:#FFFFFF;stroke-width:5.76"/>
+	<defs>
+		<path id="path1" d="M596.97 295.52 L596.97 295.52 L957.21 295.52 L957.21 435.74 L596.97 435.74 L596.97 295.52 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath1">
+			<use xlink:href="#path1"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path1" style="stroke:none;fill:#F7FCFD"/>
+	<use xlink:href="#path1" style="fill:none;stroke:#F7FCFD;stroke-width:8.64" clip-path="url(#clipPath1)"/>
+	<defs>
+		<path id="path2" d="M957.21 295.52 L957.21 295.52 L1317.44 295.52 L1317.44 435.74 L957.21 435.74 L957.21 295.52 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath2">
+			<use xlink:href="#path2"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path2" style="stroke:none;fill:#E5F5F9"/>
+	<use xlink:href="#path2" style="fill:none;stroke:#E5F5F9;stroke-width:8.64" clip-path="url(#clipPath2)"/>
+	<defs>
+		<path id="path3" d="M1317.44 295.52 L1317.44 295.52 L1677.56 295.52 L1677.56 435.74 L1317.44 435.74 L1317.44 295.52 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath3">
+			<use xlink:href="#path3"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path3" style="stroke:none;fill:#CCECE6"/>
+	<use xlink:href="#path3" style="fill:none;stroke:#CCECE6;stroke-width:8.64" clip-path="url(#clipPath3)"/>
+	<defs>
+		<path id="path4" d="M1677.56 295.52 L1677.56 295.52 L2037.79 295.52 L2037.79 435.74 L1677.56 435.74 L1677.56 295.52 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath4">
+			<use xlink:href="#path4"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path4" style="stroke:none;fill:#99D8C9"/>
+	<use xlink:href="#path4" style="fill:none;stroke:#99D8C9;stroke-width:8.64" clip-path="url(#clipPath4)"/>
+	<defs>
+		<path id="path5" d="M2037.79 295.52 L2037.79 295.52 L2398.03 295.52 L2398.03 435.74 L2037.79 435.74 L2037.79 295.52 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath5">
+			<use xlink:href="#path5"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path5" style="stroke:none;fill:#66C2A4"/>
+	<use xlink:href="#path5" style="fill:none;stroke:#66C2A4;stroke-width:8.64" clip-path="url(#clipPath5)"/>
+	<defs>
+		<path id="path6" d="M2398.03 295.52 L2398.03 295.52 L2758.26 295.52 L2758.26 435.74 L2398.03 435.74 L2398.03 295.52 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath6">
+			<use xlink:href="#path6"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path6" style="stroke:none;fill:#41AE76"/>
+	<use xlink:href="#path6" style="fill:none;stroke:#41AE76;stroke-width:8.64" clip-path="url(#clipPath6)"/>
+	<defs>
+		<path id="path7" d="M2758.26 295.52 L2758.26 295.52 L3118.50 295.52 L3118.50 435.74 L2758.26 435.74 L2758.26 295.52 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath7">
+			<use xlink:href="#path7"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path7" style="stroke:none;fill:#238B45"/>
+	<use xlink:href="#path7" style="fill:none;stroke:#238B45;stroke-width:8.64" clip-path="url(#clipPath7)"/>
+	<defs>
+		<path id="path8" d="M3118.50 295.52 L3118.50 295.52 L3478.61 295.52 L3478.61 435.74 L3118.50 435.74 L3118.50 295.52 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath8">
+			<use xlink:href="#path8"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path8" style="stroke:none;fill:#006D2C"/>
+	<use xlink:href="#path8" style="fill:none;stroke:#006D2C;stroke-width:8.64" clip-path="url(#clipPath8)"/>
+	<defs>
+		<path id="path9" d="M3478.61 295.52 L3478.61 295.52 L3838.85 295.52 L3838.85 435.74 L3478.61 435.74 L3478.61 295.52 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath9">
+			<use xlink:href="#path9"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path9" style="stroke:none;fill:#00441B"/>
+	<use xlink:href="#path9" style="fill:none;stroke:#00441B;stroke-width:8.64" clip-path="url(#clipPath9)"/>
+	<defs>
+		<path id="path10" d="M596.97 495.76 L596.97 495.76 L957.21 495.76 L957.21 635.97 L596.97 635.97 L596.97 495.76 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath10">
+			<use xlink:href="#path10"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path10" style="stroke:none;fill:#F7FCFD"/>
+	<use xlink:href="#path10" style="fill:none;stroke:#F7FCFD;stroke-width:8.64" clip-path="url(#clipPath10)"/>
+	<defs>
+		<path id="path11" d="M957.21 495.76 L957.21 495.76 L1317.44 495.76 L1317.44 635.97 L957.21 635.97 L957.21 495.76 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath11">
+			<use xlink:href="#path11"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path11" style="stroke:none;fill:#E0ECF4"/>
+	<use xlink:href="#path11" style="fill:none;stroke:#E0ECF4;stroke-width:8.64" clip-path="url(#clipPath11)"/>
+	<defs>
+		<path id="path12" d="M1317.44 495.76 L1317.44 495.76 L1677.56 495.76 L1677.56 635.97 L1317.44 635.97 L1317.44 495.76 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath12">
+			<use xlink:href="#path12"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path12" style="stroke:none;fill:#BFD3E6"/>
+	<use xlink:href="#path12" style="fill:none;stroke:#BFD3E6;stroke-width:8.64" clip-path="url(#clipPath12)"/>
+	<defs>
+		<path id="path13" d="M1677.56 495.76 L1677.56 495.76 L2037.79 495.76 L2037.79 635.97 L1677.56 635.97 L1677.56 495.76 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath13">
+			<use xlink:href="#path13"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path13" style="stroke:none;fill:#9EBCDA"/>
+	<use xlink:href="#path13" style="fill:none;stroke:#9EBCDA;stroke-width:8.64" clip-path="url(#clipPath13)"/>
+	<defs>
+		<path id="path14" d="M2037.79 495.76 L2037.79 495.76 L2398.03 495.76 L2398.03 635.97 L2037.79 635.97 L2037.79 495.76 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath14">
+			<use xlink:href="#path14"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path14" style="stroke:none;fill:#8C96C6"/>
+	<use xlink:href="#path14" style="fill:none;stroke:#8C96C6;stroke-width:8.64" clip-path="url(#clipPath14)"/>
+	<defs>
+		<path id="path15" d="M2398.03 495.76 L2398.03 495.76 L2758.26 495.76 L2758.26 635.97 L2398.03 635.97 L2398.03 495.76 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath15">
+			<use xlink:href="#path15"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path15" style="stroke:none;fill:#8C6BB1"/>
+	<use xlink:href="#path15" style="fill:none;stroke:#8C6BB1;stroke-width:8.64" clip-path="url(#clipPath15)"/>
+	<defs>
+		<path id="path16" d="M2758.26 495.76 L2758.26 495.76 L3118.50 495.76 L3118.50 635.97 L2758.26 635.97 L2758.26 495.76 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath16">
+			<use xlink:href="#path16"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path16" style="stroke:none;fill:#88419D"/>
+	<use xlink:href="#path16" style="fill:none;stroke:#88419D;stroke-width:8.64" clip-path="url(#clipPath16)"/>
+	<defs>
+		<path id="path17" d="M3118.50 495.76 L3118.50 495.76 L3478.61 495.76 L3478.61 635.97 L3118.50 635.97 L3118.50 495.76 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath17">
+			<use xlink:href="#path17"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path17" style="stroke:none;fill:#810F7C"/>
+	<use xlink:href="#path17" style="fill:none;stroke:#810F7C;stroke-width:8.64" clip-path="url(#clipPath17)"/>
+	<defs>
+		<path id="path18" d="M3478.61 495.76 L3478.61 495.76 L3838.85 495.76 L3838.85 635.97 L3478.61 635.97 L3478.61 495.76 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath18">
+			<use xlink:href="#path18"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path18" style="stroke:none;fill:#4D004B"/>
+	<use xlink:href="#path18" style="fill:none;stroke:#4D004B;stroke-width:8.64" clip-path="url(#clipPath18)"/>
+	<defs>
+		<path id="path19" d="M596.97 695.99 L596.97 695.99 L957.21 695.99 L957.21 836.08 L596.97 836.08 L596.97 695.99 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath19">
+			<use xlink:href="#path19"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path19" style="stroke:none;fill:#F7FCF0"/>
+	<use xlink:href="#path19" style="fill:none;stroke:#F7FCF0;stroke-width:8.64" clip-path="url(#clipPath19)"/>
+	<defs>
+		<path id="path20" d="M957.21 695.99 L957.21 695.99 L1317.44 695.99 L1317.44 836.08 L957.21 836.08 L957.21 695.99 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath20">
+			<use xlink:href="#path20"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path20" style="stroke:none;fill:#E0F3DB"/>
+	<use xlink:href="#path20" style="fill:none;stroke:#E0F3DB;stroke-width:8.64" clip-path="url(#clipPath20)"/>
+	<defs>
+		<path id="path21" d="M1317.44 695.99 L1317.44 695.99 L1677.56 695.99 L1677.56 836.08 L1317.44 836.08 L1317.44 695.99 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath21">
+			<use xlink:href="#path21"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path21" style="stroke:none;fill:#CCEBC5"/>
+	<use xlink:href="#path21" style="fill:none;stroke:#CCEBC5;stroke-width:8.64" clip-path="url(#clipPath21)"/>
+	<defs>
+		<path id="path22" d="M1677.56 695.99 L1677.56 695.99 L2037.79 695.99 L2037.79 836.08 L1677.56 836.08 L1677.56 695.99 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath22">
+			<use xlink:href="#path22"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path22" style="stroke:none;fill:#A8DDB5"/>
+	<use xlink:href="#path22" style="fill:none;stroke:#A8DDB5;stroke-width:8.64" clip-path="url(#clipPath22)"/>
+	<defs>
+		<path id="path23" d="M2037.79 695.99 L2037.79 695.99 L2398.03 695.99 L2398.03 836.08 L2037.79 836.08 L2037.79 695.99 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath23">
+			<use xlink:href="#path23"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path23" style="stroke:none;fill:#7BCCC4"/>
+	<use xlink:href="#path23" style="fill:none;stroke:#7BCCC4;stroke-width:8.64" clip-path="url(#clipPath23)"/>
+	<defs>
+		<path id="path24" d="M2398.03 695.99 L2398.03 695.99 L2758.26 695.99 L2758.26 836.08 L2398.03 836.08 L2398.03 695.99 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath24">
+			<use xlink:href="#path24"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path24" style="stroke:none;fill:#4EB3D3"/>
+	<use xlink:href="#path24" style="fill:none;stroke:#4EB3D3;stroke-width:8.64" clip-path="url(#clipPath24)"/>
+	<defs>
+		<path id="path25" d="M2758.26 695.99 L2758.26 695.99 L3118.50 695.99 L3118.50 836.08 L2758.26 836.08 L2758.26 695.99 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath25">
+			<use xlink:href="#path25"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path25" style="stroke:none;fill:#2B8CBE"/>
+	<use xlink:href="#path25" style="fill:none;stroke:#2B8CBE;stroke-width:8.64" clip-path="url(#clipPath25)"/>
+	<defs>
+		<path id="path26" d="M3118.50 695.99 L3118.50 695.99 L3478.61 695.99 L3478.61 836.08 L3118.50 836.08 L3118.50 695.99 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath26">
+			<use xlink:href="#path26"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path26" style="stroke:none;fill:#0868AC"/>
+	<use xlink:href="#path26" style="fill:none;stroke:#0868AC;stroke-width:8.64" clip-path="url(#clipPath26)"/>
+	<defs>
+		<path id="path27" d="M3478.61 695.99 L3478.61 695.99 L3838.85 695.99 L3838.85 836.08 L3478.61 836.08 L3478.61 695.99 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath27">
+			<use xlink:href="#path27"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path27" style="stroke:none;fill:#084081"/>
+	<use xlink:href="#path27" style="fill:none;stroke:#084081;stroke-width:8.64" clip-path="url(#clipPath27)"/>
+	<defs>
+		<path id="path28" d="M596.97 896.23 L596.97 896.23 L957.21 896.23 L957.21 1036.31 L596.97 1036.31 L596.97 896.23 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath28">
+			<use xlink:href="#path28"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path28" style="stroke:none;fill:#FFF7EC"/>
+	<use xlink:href="#path28" style="fill:none;stroke:#FFF7EC;stroke-width:8.64" clip-path="url(#clipPath28)"/>
+	<defs>
+		<path id="path29" d="M957.21 896.23 L957.21 896.23 L1317.44 896.23 L1317.44 1036.31 L957.21 1036.31 L957.21 896.23 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath29">
+			<use xlink:href="#path29"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path29" style="stroke:none;fill:#FEE8C8"/>
+	<use xlink:href="#path29" style="fill:none;stroke:#FEE8C8;stroke-width:8.64" clip-path="url(#clipPath29)"/>
+	<defs>
+		<path id="path30" d="M1317.44 896.23 L1317.44 896.23 L1677.56 896.23 L1677.56 1036.31 L1317.44 1036.31 L1317.44 896.23 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath30">
+			<use xlink:href="#path30"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path30" style="stroke:none;fill:#FDD49E"/>
+	<use xlink:href="#path30" style="fill:none;stroke:#FDD49E;stroke-width:8.64" clip-path="url(#clipPath30)"/>
+	<defs>
+		<path id="path31" d="M1677.56 896.23 L1677.56 896.23 L2037.79 896.23 L2037.79 1036.31 L1677.56 1036.31 L1677.56 896.23 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath31">
+			<use xlink:href="#path31"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path31" style="stroke:none;fill:#FDBB84"/>
+	<use xlink:href="#path31" style="fill:none;stroke:#FDBB84;stroke-width:8.64" clip-path="url(#clipPath31)"/>
+	<defs>
+		<path id="path32" d="M2037.79 896.23 L2037.79 896.23 L2398.03 896.23 L2398.03 1036.31 L2037.79 1036.31 L2037.79 896.23 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath32">
+			<use xlink:href="#path32"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path32" style="stroke:none;fill:#FC8D59"/>
+	<use xlink:href="#path32" style="fill:none;stroke:#FC8D59;stroke-width:8.64" clip-path="url(#clipPath32)"/>
+	<defs>
+		<path id="path33" d="M2398.03 896.23 L2398.03 896.23 L2758.26 896.23 L2758.26 1036.31 L2398.03 1036.31 L2398.03 896.23 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath33">
+			<use xlink:href="#path33"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path33" style="stroke:none;fill:#EF6548"/>
+	<use xlink:href="#path33" style="fill:none;stroke:#EF6548;stroke-width:8.64" clip-path="url(#clipPath33)"/>
+	<defs>
+		<path id="path34" d="M2758.26 896.23 L2758.26 896.23 L3118.50 896.23 L3118.50 1036.31 L2758.26 1036.31 L2758.26 896.23 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath34">
+			<use xlink:href="#path34"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path34" style="stroke:none;fill:#D7301F"/>
+	<use xlink:href="#path34" style="fill:none;stroke:#D7301F;stroke-width:8.64" clip-path="url(#clipPath34)"/>
+	<defs>
+		<path id="path35" d="M3118.50 896.23 L3118.50 896.23 L3478.61 896.23 L3478.61 1036.31 L3118.50 1036.31 L3118.50 896.23 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath35">
+			<use xlink:href="#path35"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path35" style="stroke:none;fill:#B30000"/>
+	<use xlink:href="#path35" style="fill:none;stroke:#B30000;stroke-width:8.64" clip-path="url(#clipPath35)"/>
+	<defs>
+		<path id="path36" d="M3478.61 896.23 L3478.61 896.23 L3838.85 896.23 L3838.85 1036.31 L3478.61 1036.31 L3478.61 896.23 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath36">
+			<use xlink:href="#path36"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path36" style="stroke:none;fill:#7F0000"/>
+	<use xlink:href="#path36" style="fill:none;stroke:#7F0000;stroke-width:8.64" clip-path="url(#clipPath36)"/>
+	<defs>
+		<path id="path37" d="M596.97 1096.34 L596.97 1096.34 L957.21 1096.34 L957.21 1236.55 L596.97 1236.55 L596.97 1096.34 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath37">
+			<use xlink:href="#path37"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path37" style="stroke:none;fill:#FFF7FB"/>
+	<use xlink:href="#path37" style="fill:none;stroke:#FFF7FB;stroke-width:8.64" clip-path="url(#clipPath37)"/>
+	<defs>
+		<path id="path38" d="M957.21 1096.34 L957.21 1096.34 L1317.44 1096.34 L1317.44 1236.55 L957.21 1236.55 L957.21 1096.34 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath38">
+			<use xlink:href="#path38"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path38" style="stroke:none;fill:#ECE7F2"/>
+	<use xlink:href="#path38" style="fill:none;stroke:#ECE7F2;stroke-width:8.64" clip-path="url(#clipPath38)"/>
+	<defs>
+		<path id="path39" d="M1317.44 1096.34 L1317.44 1096.34 L1677.56 1096.34 L1677.56 1236.55 L1317.44 1236.55 L1317.44 1096.34 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath39">
+			<use xlink:href="#path39"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path39" style="stroke:none;fill:#D0D1E6"/>
+	<use xlink:href="#path39" style="fill:none;stroke:#D0D1E6;stroke-width:8.64" clip-path="url(#clipPath39)"/>
+	<defs>
+		<path id="path40" d="M1677.56 1096.34 L1677.56 1096.34 L2037.79 1096.34 L2037.79 1236.55 L1677.56 1236.55 L1677.56 1096.34 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath40">
+			<use xlink:href="#path40"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path40" style="stroke:none;fill:#A6BDDB"/>
+	<use xlink:href="#path40" style="fill:none;stroke:#A6BDDB;stroke-width:8.64" clip-path="url(#clipPath40)"/>
+	<defs>
+		<path id="path41" d="M2037.79 1096.34 L2037.79 1096.34 L2398.03 1096.34 L2398.03 1236.55 L2037.79 1236.55 L2037.79 1096.34 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath41">
+			<use xlink:href="#path41"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path41" style="stroke:none;fill:#74A9CF"/>
+	<use xlink:href="#path41" style="fill:none;stroke:#74A9CF;stroke-width:8.64" clip-path="url(#clipPath41)"/>
+	<defs>
+		<path id="path42" d="M2398.03 1096.34 L2398.03 1096.34 L2758.26 1096.34 L2758.26 1236.55 L2398.03 1236.55 L2398.03 1096.34 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath42">
+			<use xlink:href="#path42"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path42" style="stroke:none;fill:#3690C0"/>
+	<use xlink:href="#path42" style="fill:none;stroke:#3690C0;stroke-width:8.64" clip-path="url(#clipPath42)"/>
+	<defs>
+		<path id="path43" d="M2758.26 1096.34 L2758.26 1096.34 L3118.50 1096.34 L3118.50 1236.55 L2758.26 1236.55 L2758.26 1096.34 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath43">
+			<use xlink:href="#path43"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path43" style="stroke:none;fill:#0570B0"/>
+	<use xlink:href="#path43" style="fill:none;stroke:#0570B0;stroke-width:8.64" clip-path="url(#clipPath43)"/>
+	<defs>
+		<path id="path44" d="M3118.50 1096.34 L3118.50 1096.34 L3478.61 1096.34 L3478.61 1236.55 L3118.50 1236.55 L3118.50 1096.34 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath44">
+			<use xlink:href="#path44"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path44" style="stroke:none;fill:#045A8D"/>
+	<use xlink:href="#path44" style="fill:none;stroke:#045A8D;stroke-width:8.64" clip-path="url(#clipPath44)"/>
+	<defs>
+		<path id="path45" d="M3478.61 1096.34 L3478.61 1096.34 L3838.85 1096.34 L3838.85 1236.55 L3478.61 1236.55 L3478.61 1096.34 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath45">
+			<use xlink:href="#path45"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path45" style="stroke:none;fill:#023858"/>
+	<use xlink:href="#path45" style="fill:none;stroke:#023858;stroke-width:8.64" clip-path="url(#clipPath45)"/>
+	<defs>
+		<path id="path46" d="M596.97 1296.57 L596.97 1296.57 L957.21 1296.57 L957.21 1436.66 L596.97 1436.66 L596.97 1296.57 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath46">
+			<use xlink:href="#path46"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path46" style="stroke:none;fill:#FFF7FB"/>
+	<use xlink:href="#path46" style="fill:none;stroke:#FFF7FB;stroke-width:8.64" clip-path="url(#clipPath46)"/>
+	<defs>
+		<path id="path47" d="M957.21 1296.57 L957.21 1296.57 L1317.44 1296.57 L1317.44 1436.66 L957.21 1436.66 L957.21 1296.57 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath47">
+			<use xlink:href="#path47"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path47" style="stroke:none;fill:#ECE2F0"/>
+	<use xlink:href="#path47" style="fill:none;stroke:#ECE2F0;stroke-width:8.64" clip-path="url(#clipPath47)"/>
+	<defs>
+		<path id="path48" d="M1317.44 1296.57 L1317.44 1296.57 L1677.56 1296.57 L1677.56 1436.66 L1317.44 1436.66 L1317.44 1296.57 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath48">
+			<use xlink:href="#path48"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path48" style="stroke:none;fill:#D0D1E6"/>
+	<use xlink:href="#path48" style="fill:none;stroke:#D0D1E6;stroke-width:8.64" clip-path="url(#clipPath48)"/>
+	<defs>
+		<path id="path49" d="M1677.56 1296.57 L1677.56 1296.57 L2037.79 1296.57 L2037.79 1436.66 L1677.56 1436.66 L1677.56 1296.57 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath49">
+			<use xlink:href="#path49"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path49" style="stroke:none;fill:#A6BDDB"/>
+	<use xlink:href="#path49" style="fill:none;stroke:#A6BDDB;stroke-width:8.64" clip-path="url(#clipPath49)"/>
+	<defs>
+		<path id="path50" d="M2037.79 1296.57 L2037.79 1296.57 L2398.03 1296.57 L2398.03 1436.66 L2037.79 1436.66 L2037.79 1296.57 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath50">
+			<use xlink:href="#path50"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path50" style="stroke:none;fill:#67A9CF"/>
+	<use xlink:href="#path50" style="fill:none;stroke:#67A9CF;stroke-width:8.64" clip-path="url(#clipPath50)"/>
+	<defs>
+		<path id="path51" d="M2398.03 1296.57 L2398.03 1296.57 L2758.26 1296.57 L2758.26 1436.66 L2398.03 1436.66 L2398.03 1296.57 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath51">
+			<use xlink:href="#path51"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path51" style="stroke:none;fill:#3690C0"/>
+	<use xlink:href="#path51" style="fill:none;stroke:#3690C0;stroke-width:8.64" clip-path="url(#clipPath51)"/>
+	<defs>
+		<path id="path52" d="M2758.26 1296.57 L2758.26 1296.57 L3118.50 1296.57 L3118.50 1436.66 L2758.26 1436.66 L2758.26 1296.57 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath52">
+			<use xlink:href="#path52"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path52" style="stroke:none;fill:#02818A"/>
+	<use xlink:href="#path52" style="fill:none;stroke:#02818A;stroke-width:8.64" clip-path="url(#clipPath52)"/>
+	<defs>
+		<path id="path53" d="M3118.50 1296.57 L3118.50 1296.57 L3478.61 1296.57 L3478.61 1436.66 L3118.50 1436.66 L3118.50 1296.57 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath53">
+			<use xlink:href="#path53"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path53" style="stroke:none;fill:#016C59"/>
+	<use xlink:href="#path53" style="fill:none;stroke:#016C59;stroke-width:8.64" clip-path="url(#clipPath53)"/>
+	<defs>
+		<path id="path54" d="M3478.61 1296.57 L3478.61 1296.57 L3838.85 1296.57 L3838.85 1436.66 L3478.61 1436.66 L3478.61 1296.57 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath54">
+			<use xlink:href="#path54"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path54" style="stroke:none;fill:#014636"/>
+	<use xlink:href="#path54" style="fill:none;stroke:#014636;stroke-width:8.64" clip-path="url(#clipPath54)"/>
+	<defs>
+		<path id="path55" d="M596.97 1496.80 L596.97 1496.80 L957.21 1496.80 L957.21 1636.89 L596.97 1636.89 L596.97 1496.80 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath55">
+			<use xlink:href="#path55"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path55" style="stroke:none;fill:#F7F4F9"/>
+	<use xlink:href="#path55" style="fill:none;stroke:#F7F4F9;stroke-width:8.64" clip-path="url(#clipPath55)"/>
+	<defs>
+		<path id="path56" d="M957.21 1496.80 L957.21 1496.80 L1317.44 1496.80 L1317.44 1636.89 L957.21 1636.89 L957.21 1496.80 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath56">
+			<use xlink:href="#path56"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path56" style="stroke:none;fill:#E7E1EF"/>
+	<use xlink:href="#path56" style="fill:none;stroke:#E7E1EF;stroke-width:8.64" clip-path="url(#clipPath56)"/>
+	<defs>
+		<path id="path57" d="M1317.44 1496.80 L1317.44 1496.80 L1677.56 1496.80 L1677.56 1636.89 L1317.44 1636.89 L1317.44 1496.80 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath57">
+			<use xlink:href="#path57"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path57" style="stroke:none;fill:#D4B9DA"/>
+	<use xlink:href="#path57" style="fill:none;stroke:#D4B9DA;stroke-width:8.64" clip-path="url(#clipPath57)"/>
+	<defs>
+		<path id="path58" d="M1677.56 1496.80 L1677.56 1496.80 L2037.79 1496.80 L2037.79 1636.89 L1677.56 1636.89 L1677.56 1496.80 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath58">
+			<use xlink:href="#path58"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path58" style="stroke:none;fill:#C994C7"/>
+	<use xlink:href="#path58" style="fill:none;stroke:#C994C7;stroke-width:8.64" clip-path="url(#clipPath58)"/>
+	<defs>
+		<path id="path59" d="M2037.79 1496.80 L2037.79 1496.80 L2398.03 1496.80 L2398.03 1636.89 L2037.79 1636.89 L2037.79 1496.80 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath59">
+			<use xlink:href="#path59"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path59" style="stroke:none;fill:#DF65B0"/>
+	<use xlink:href="#path59" style="fill:none;stroke:#DF65B0;stroke-width:8.64" clip-path="url(#clipPath59)"/>
+	<defs>
+		<path id="path60" d="M2398.03 1496.80 L2398.03 1496.80 L2758.26 1496.80 L2758.26 1636.89 L2398.03 1636.89 L2398.03 1496.80 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath60">
+			<use xlink:href="#path60"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path60" style="stroke:none;fill:#E7298A"/>
+	<use xlink:href="#path60" style="fill:none;stroke:#E7298A;stroke-width:8.64" clip-path="url(#clipPath60)"/>
+	<defs>
+		<path id="path61" d="M2758.26 1496.80 L2758.26 1496.80 L3118.50 1496.80 L3118.50 1636.89 L2758.26 1636.89 L2758.26 1496.80 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath61">
+			<use xlink:href="#path61"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path61" style="stroke:none;fill:#CE1256"/>
+	<use xlink:href="#path61" style="fill:none;stroke:#CE1256;stroke-width:8.64" clip-path="url(#clipPath61)"/>
+	<defs>
+		<path id="path62" d="M3118.50 1496.80 L3118.50 1496.80 L3478.61 1496.80 L3478.61 1636.89 L3118.50 1636.89 L3118.50 1496.80 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath62">
+			<use xlink:href="#path62"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path62" style="stroke:none;fill:#980043"/>
+	<use xlink:href="#path62" style="fill:none;stroke:#980043;stroke-width:8.64" clip-path="url(#clipPath62)"/>
+	<defs>
+		<path id="path63" d="M3478.61 1496.80 L3478.61 1496.80 L3838.85 1496.80 L3838.85 1636.89 L3478.61 1636.89 L3478.61 1496.80 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath63">
+			<use xlink:href="#path63"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path63" style="stroke:none;fill:#67001F"/>
+	<use xlink:href="#path63" style="fill:none;stroke:#67001F;stroke-width:8.64" clip-path="url(#clipPath63)"/>
+	<defs>
+		<path id="path64" d="M596.97 1696.91 L596.97 1696.91 L957.21 1696.91 L957.21 1837.13 L596.97 1837.13 L596.97 1696.91 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath64">
+			<use xlink:href="#path64"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path64" style="stroke:none;fill:#FFF7F3"/>
+	<use xlink:href="#path64" style="fill:none;stroke:#FFF7F3;stroke-width:8.64" clip-path="url(#clipPath64)"/>
+	<defs>
+		<path id="path65" d="M957.21 1696.91 L957.21 1696.91 L1317.44 1696.91 L1317.44 1837.13 L957.21 1837.13 L957.21 1696.91 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath65">
+			<use xlink:href="#path65"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path65" style="stroke:none;fill:#FDE0DD"/>
+	<use xlink:href="#path65" style="fill:none;stroke:#FDE0DD;stroke-width:8.64" clip-path="url(#clipPath65)"/>
+	<defs>
+		<path id="path66" d="M1317.44 1696.91 L1317.44 1696.91 L1677.56 1696.91 L1677.56 1837.13 L1317.44 1837.13 L1317.44 1696.91 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath66">
+			<use xlink:href="#path66"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path66" style="stroke:none;fill:#FCC5C0"/>
+	<use xlink:href="#path66" style="fill:none;stroke:#FCC5C0;stroke-width:8.64" clip-path="url(#clipPath66)"/>
+	<defs>
+		<path id="path67" d="M1677.56 1696.91 L1677.56 1696.91 L2037.79 1696.91 L2037.79 1837.13 L1677.56 1837.13 L1677.56 1696.91 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath67">
+			<use xlink:href="#path67"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path67" style="stroke:none;fill:#FA9FB5"/>
+	<use xlink:href="#path67" style="fill:none;stroke:#FA9FB5;stroke-width:8.64" clip-path="url(#clipPath67)"/>
+	<defs>
+		<path id="path68" d="M2037.79 1696.91 L2037.79 1696.91 L2398.03 1696.91 L2398.03 1837.13 L2037.79 1837.13 L2037.79 1696.91 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath68">
+			<use xlink:href="#path68"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path68" style="stroke:none;fill:#F768A1"/>
+	<use xlink:href="#path68" style="fill:none;stroke:#F768A1;stroke-width:8.64" clip-path="url(#clipPath68)"/>
+	<defs>
+		<path id="path69" d="M2398.03 1696.91 L2398.03 1696.91 L2758.26 1696.91 L2758.26 1837.13 L2398.03 1837.13 L2398.03 1696.91 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath69">
+			<use xlink:href="#path69"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path69" style="stroke:none;fill:#DD3497"/>
+	<use xlink:href="#path69" style="fill:none;stroke:#DD3497;stroke-width:8.64" clip-path="url(#clipPath69)"/>
+	<defs>
+		<path id="path70" d="M2758.26 1696.91 L2758.26 1696.91 L3118.50 1696.91 L3118.50 1837.13 L2758.26 1837.13 L2758.26 1696.91 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath70">
+			<use xlink:href="#path70"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path70" style="stroke:none;fill:#AE017E"/>
+	<use xlink:href="#path70" style="fill:none;stroke:#AE017E;stroke-width:8.64" clip-path="url(#clipPath70)"/>
+	<defs>
+		<path id="path71" d="M3118.50 1696.91 L3118.50 1696.91 L3478.61 1696.91 L3478.61 1837.13 L3118.50 1837.13 L3118.50 1696.91 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath71">
+			<use xlink:href="#path71"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path71" style="stroke:none;fill:#7A0177"/>
+	<use xlink:href="#path71" style="fill:none;stroke:#7A0177;stroke-width:8.64" clip-path="url(#clipPath71)"/>
+	<defs>
+		<path id="path72" d="M3478.61 1696.91 L3478.61 1696.91 L3838.85 1696.91 L3838.85 1837.13 L3478.61 1837.13 L3478.61 1696.91 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath72">
+			<use xlink:href="#path72"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path72" style="stroke:none;fill:#49006A"/>
+	<use xlink:href="#path72" style="fill:none;stroke:#49006A;stroke-width:8.64" clip-path="url(#clipPath72)"/>
+	<defs>
+		<path id="path73" d="M596.97 1897.15 L596.97 1897.15 L957.21 1897.15 L957.21 2037.36 L596.97 2037.36 L596.97 1897.15 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath73">
+			<use xlink:href="#path73"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path73" style="stroke:none;fill:#FFFFE5"/>
+	<use xlink:href="#path73" style="fill:none;stroke:#FFFFE5;stroke-width:8.64" clip-path="url(#clipPath73)"/>
+	<defs>
+		<path id="path74" d="M957.21 1897.15 L957.21 1897.15 L1317.44 1897.15 L1317.44 2037.36 L957.21 2037.36 L957.21 1897.15 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath74">
+			<use xlink:href="#path74"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path74" style="stroke:none;fill:#F7FCB9"/>
+	<use xlink:href="#path74" style="fill:none;stroke:#F7FCB9;stroke-width:8.64" clip-path="url(#clipPath74)"/>
+	<defs>
+		<path id="path75" d="M1317.44 1897.15 L1317.44 1897.15 L1677.56 1897.15 L1677.56 2037.36 L1317.44 2037.36 L1317.44 1897.15 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath75">
+			<use xlink:href="#path75"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path75" style="stroke:none;fill:#D9F0A3"/>
+	<use xlink:href="#path75" style="fill:none;stroke:#D9F0A3;stroke-width:8.64" clip-path="url(#clipPath75)"/>
+	<defs>
+		<path id="path76" d="M1677.56 1897.15 L1677.56 1897.15 L2037.79 1897.15 L2037.79 2037.36 L1677.56 2037.36 L1677.56 1897.15 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath76">
+			<use xlink:href="#path76"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path76" style="stroke:none;fill:#ADDD8E"/>
+	<use xlink:href="#path76" style="fill:none;stroke:#ADDD8E;stroke-width:8.64" clip-path="url(#clipPath76)"/>
+	<defs>
+		<path id="path77" d="M2037.79 1897.15 L2037.79 1897.15 L2398.03 1897.15 L2398.03 2037.36 L2037.79 2037.36 L2037.79 1897.15 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath77">
+			<use xlink:href="#path77"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path77" style="stroke:none;fill:#78C679"/>
+	<use xlink:href="#path77" style="fill:none;stroke:#78C679;stroke-width:8.64" clip-path="url(#clipPath77)"/>
+	<defs>
+		<path id="path78" d="M2398.03 1897.15 L2398.03 1897.15 L2758.26 1897.15 L2758.26 2037.36 L2398.03 2037.36 L2398.03 1897.15 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath78">
+			<use xlink:href="#path78"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path78" style="stroke:none;fill:#41AB5D"/>
+	<use xlink:href="#path78" style="fill:none;stroke:#41AB5D;stroke-width:8.64" clip-path="url(#clipPath78)"/>
+	<defs>
+		<path id="path79" d="M2758.26 1897.15 L2758.26 1897.15 L3118.50 1897.15 L3118.50 2037.36 L2758.26 2037.36 L2758.26 1897.15 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath79">
+			<use xlink:href="#path79"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path79" style="stroke:none;fill:#238443"/>
+	<use xlink:href="#path79" style="fill:none;stroke:#238443;stroke-width:8.64" clip-path="url(#clipPath79)"/>
+	<defs>
+		<path id="path80" d="M3118.50 1897.15 L3118.50 1897.15 L3478.61 1897.15 L3478.61 2037.36 L3118.50 2037.36 L3118.50 1897.15 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath80">
+			<use xlink:href="#path80"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path80" style="stroke:none;fill:#006837"/>
+	<use xlink:href="#path80" style="fill:none;stroke:#006837;stroke-width:8.64" clip-path="url(#clipPath80)"/>
+	<defs>
+		<path id="path81" d="M3478.61 1897.15 L3478.61 1897.15 L3838.85 1897.15 L3838.85 2037.36 L3478.61 2037.36 L3478.61 1897.15 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath81">
+			<use xlink:href="#path81"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path81" style="stroke:none;fill:#004529"/>
+	<use xlink:href="#path81" style="fill:none;stroke:#004529;stroke-width:8.64" clip-path="url(#clipPath81)"/>
+	<defs>
+		<path id="path82" d="M596.97 2097.38 L596.97 2097.38 L957.21 2097.38 L957.21 2237.47 L596.97 2237.47 L596.97 2097.38 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath82">
+			<use xlink:href="#path82"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path82" style="stroke:none;fill:#FFFFD9"/>
+	<use xlink:href="#path82" style="fill:none;stroke:#FFFFD9;stroke-width:8.64" clip-path="url(#clipPath82)"/>
+	<defs>
+		<path id="path83" d="M957.21 2097.38 L957.21 2097.38 L1317.44 2097.38 L1317.44 2237.47 L957.21 2237.47 L957.21 2097.38 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath83">
+			<use xlink:href="#path83"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path83" style="stroke:none;fill:#EDF8B1"/>
+	<use xlink:href="#path83" style="fill:none;stroke:#EDF8B1;stroke-width:8.64" clip-path="url(#clipPath83)"/>
+	<defs>
+		<path id="path84" d="M1317.44 2097.38 L1317.44 2097.38 L1677.56 2097.38 L1677.56 2237.47 L1317.44 2237.47 L1317.44 2097.38 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath84">
+			<use xlink:href="#path84"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path84" style="stroke:none;fill:#C7E9B4"/>
+	<use xlink:href="#path84" style="fill:none;stroke:#C7E9B4;stroke-width:8.64" clip-path="url(#clipPath84)"/>
+	<defs>
+		<path id="path85" d="M1677.56 2097.38 L1677.56 2097.38 L2037.79 2097.38 L2037.79 2237.47 L1677.56 2237.47 L1677.56 2097.38 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath85">
+			<use xlink:href="#path85"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path85" style="stroke:none;fill:#7FCDBB"/>
+	<use xlink:href="#path85" style="fill:none;stroke:#7FCDBB;stroke-width:8.64" clip-path="url(#clipPath85)"/>
+	<defs>
+		<path id="path86" d="M2037.79 2097.38 L2037.79 2097.38 L2398.03 2097.38 L2398.03 2237.47 L2037.79 2237.47 L2037.79 2097.38 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath86">
+			<use xlink:href="#path86"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path86" style="stroke:none;fill:#41B6C4"/>
+	<use xlink:href="#path86" style="fill:none;stroke:#41B6C4;stroke-width:8.64" clip-path="url(#clipPath86)"/>
+	<defs>
+		<path id="path87" d="M2398.03 2097.38 L2398.03 2097.38 L2758.26 2097.38 L2758.26 2237.47 L2398.03 2237.47 L2398.03 2097.38 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath87">
+			<use xlink:href="#path87"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path87" style="stroke:none;fill:#1D91C0"/>
+	<use xlink:href="#path87" style="fill:none;stroke:#1D91C0;stroke-width:8.64" clip-path="url(#clipPath87)"/>
+	<defs>
+		<path id="path88" d="M2758.26 2097.38 L2758.26 2097.38 L3118.50 2097.38 L3118.50 2237.47 L2758.26 2237.47 L2758.26 2097.38 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath88">
+			<use xlink:href="#path88"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path88" style="stroke:none;fill:#225EA8"/>
+	<use xlink:href="#path88" style="fill:none;stroke:#225EA8;stroke-width:8.64" clip-path="url(#clipPath88)"/>
+	<defs>
+		<path id="path89" d="M3118.50 2097.38 L3118.50 2097.38 L3478.61 2097.38 L3478.61 2237.47 L3118.50 2237.47 L3118.50 2097.38 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath89">
+			<use xlink:href="#path89"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path89" style="stroke:none;fill:#253494"/>
+	<use xlink:href="#path89" style="fill:none;stroke:#253494;stroke-width:8.64" clip-path="url(#clipPath89)"/>
+	<defs>
+		<path id="path90" d="M3478.61 2097.38 L3478.61 2097.38 L3838.85 2097.38 L3838.85 2237.47 L3478.61 2237.47 L3478.61 2097.38 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath90">
+			<use xlink:href="#path90"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path90" style="stroke:none;fill:#081D58"/>
+	<use xlink:href="#path90" style="fill:none;stroke:#081D58;stroke-width:8.64" clip-path="url(#clipPath90)"/>
+	<defs>
+		<path id="path91" d="M596.97 2297.61 L596.97 2297.61 L957.21 2297.61 L957.21 2437.70 L596.97 2437.70 L596.97 2297.61 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath91">
+			<use xlink:href="#path91"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path91" style="stroke:none;fill:#FFFFE5"/>
+	<use xlink:href="#path91" style="fill:none;stroke:#FFFFE5;stroke-width:8.64" clip-path="url(#clipPath91)"/>
+	<defs>
+		<path id="path92" d="M957.21 2297.61 L957.21 2297.61 L1317.44 2297.61 L1317.44 2437.70 L957.21 2437.70 L957.21 2297.61 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath92">
+			<use xlink:href="#path92"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path92" style="stroke:none;fill:#FFF7BC"/>
+	<use xlink:href="#path92" style="fill:none;stroke:#FFF7BC;stroke-width:8.64" clip-path="url(#clipPath92)"/>
+	<defs>
+		<path id="path93" d="M1317.44 2297.61 L1317.44 2297.61 L1677.56 2297.61 L1677.56 2437.70 L1317.44 2437.70 L1317.44 2297.61 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath93">
+			<use xlink:href="#path93"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path93" style="stroke:none;fill:#FEE391"/>
+	<use xlink:href="#path93" style="fill:none;stroke:#FEE391;stroke-width:8.64" clip-path="url(#clipPath93)"/>
+	<defs>
+		<path id="path94" d="M1677.56 2297.61 L1677.56 2297.61 L2037.79 2297.61 L2037.79 2437.70 L1677.56 2437.70 L1677.56 2297.61 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath94">
+			<use xlink:href="#path94"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path94" style="stroke:none;fill:#FEC44F"/>
+	<use xlink:href="#path94" style="fill:none;stroke:#FEC44F;stroke-width:8.64" clip-path="url(#clipPath94)"/>
+	<defs>
+		<path id="path95" d="M2037.79 2297.61 L2037.79 2297.61 L2398.03 2297.61 L2398.03 2437.70 L2037.79 2437.70 L2037.79 2297.61 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath95">
+			<use xlink:href="#path95"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path95" style="stroke:none;fill:#FE9929"/>
+	<use xlink:href="#path95" style="fill:none;stroke:#FE9929;stroke-width:8.64" clip-path="url(#clipPath95)"/>
+	<defs>
+		<path id="path96" d="M2398.03 2297.61 L2398.03 2297.61 L2758.26 2297.61 L2758.26 2437.70 L2398.03 2437.70 L2398.03 2297.61 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath96">
+			<use xlink:href="#path96"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path96" style="stroke:none;fill:#EC7014"/>
+	<use xlink:href="#path96" style="fill:none;stroke:#EC7014;stroke-width:8.64" clip-path="url(#clipPath96)"/>
+	<defs>
+		<path id="path97" d="M2758.26 2297.61 L2758.26 2297.61 L3118.50 2297.61 L3118.50 2437.70 L2758.26 2437.70 L2758.26 2297.61 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath97">
+			<use xlink:href="#path97"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path97" style="stroke:none;fill:#CC4C02"/>
+	<use xlink:href="#path97" style="fill:none;stroke:#CC4C02;stroke-width:8.64" clip-path="url(#clipPath97)"/>
+	<defs>
+		<path id="path98" d="M3118.50 2297.61 L3118.50 2297.61 L3478.61 2297.61 L3478.61 2437.70 L3118.50 2437.70 L3118.50 2297.61 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath98">
+			<use xlink:href="#path98"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path98" style="stroke:none;fill:#993404"/>
+	<use xlink:href="#path98" style="fill:none;stroke:#993404;stroke-width:8.64" clip-path="url(#clipPath98)"/>
+	<defs>
+		<path id="path99" d="M3478.61 2297.61 L3478.61 2297.61 L3838.85 2297.61 L3838.85 2437.70 L3478.61 2437.70 L3478.61 2297.61 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath99">
+			<use xlink:href="#path99"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path99" style="stroke:none;fill:#662506"/>
+	<use xlink:href="#path99" style="fill:none;stroke:#662506;stroke-width:8.64" clip-path="url(#clipPath99)"/>
+	<defs>
+		<path id="path100" d="M596.97 2497.72 L596.97 2497.72 L957.21 2497.72 L957.21 2637.94 L596.97 2637.94 L596.97 2497.72 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath100">
+			<use xlink:href="#path100"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path100" style="stroke:none;fill:#FFFFCC"/>
+	<use xlink:href="#path100" style="fill:none;stroke:#FFFFCC;stroke-width:8.64" clip-path="url(#clipPath100)"/>
+	<defs>
+		<path id="path101" d="M957.21 2497.72 L957.21 2497.72 L1317.44 2497.72 L1317.44 2637.94 L957.21 2637.94 L957.21 2497.72 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath101">
+			<use xlink:href="#path101"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path101" style="stroke:none;fill:#FFEDA0"/>
+	<use xlink:href="#path101" style="fill:none;stroke:#FFEDA0;stroke-width:8.64" clip-path="url(#clipPath101)"/>
+	<defs>
+		<path id="path102" d="M1317.44 2497.72 L1317.44 2497.72 L1677.56 2497.72 L1677.56 2637.94 L1317.44 2637.94 L1317.44 2497.72 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath102">
+			<use xlink:href="#path102"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path102" style="stroke:none;fill:#FED976"/>
+	<use xlink:href="#path102" style="fill:none;stroke:#FED976;stroke-width:8.64" clip-path="url(#clipPath102)"/>
+	<defs>
+		<path id="path103" d="M1677.56 2497.72 L1677.56 2497.72 L2037.79 2497.72 L2037.79 2637.94 L1677.56 2637.94 L1677.56 2497.72 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath103">
+			<use xlink:href="#path103"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path103" style="stroke:none;fill:#FEB24C"/>
+	<use xlink:href="#path103" style="fill:none;stroke:#FEB24C;stroke-width:8.64" clip-path="url(#clipPath103)"/>
+	<defs>
+		<path id="path104" d="M2037.79 2497.72 L2037.79 2497.72 L2398.03 2497.72 L2398.03 2637.94 L2037.79 2637.94 L2037.79 2497.72 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath104">
+			<use xlink:href="#path104"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path104" style="stroke:none;fill:#FD8D3C"/>
+	<use xlink:href="#path104" style="fill:none;stroke:#FD8D3C;stroke-width:8.64" clip-path="url(#clipPath104)"/>
+	<defs>
+		<path id="path105" d="M2398.03 2497.72 L2398.03 2497.72 L2758.26 2497.72 L2758.26 2637.94 L2398.03 2637.94 L2398.03 2497.72 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath105">
+			<use xlink:href="#path105"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path105" style="stroke:none;fill:#FC4E2A"/>
+	<use xlink:href="#path105" style="fill:none;stroke:#FC4E2A;stroke-width:8.64" clip-path="url(#clipPath105)"/>
+	<defs>
+		<path id="path106" d="M2758.26 2497.72 L2758.26 2497.72 L3118.50 2497.72 L3118.50 2637.94 L2758.26 2637.94 L2758.26 2497.72 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath106">
+			<use xlink:href="#path106"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path106" style="stroke:none;fill:#E31A1C"/>
+	<use xlink:href="#path106" style="fill:none;stroke:#E31A1C;stroke-width:8.64" clip-path="url(#clipPath106)"/>
+	<defs>
+		<path id="path107" d="M3118.50 2497.72 L3118.50 2497.72 L3478.61 2497.72 L3478.61 2637.94 L3118.50 2637.94 L3118.50 2497.72 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath107">
+			<use xlink:href="#path107"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path107" style="stroke:none;fill:#BD0026"/>
+	<use xlink:href="#path107" style="fill:none;stroke:#BD0026;stroke-width:8.64" clip-path="url(#clipPath107)"/>
+	<defs>
+		<path id="path108" d="M3478.61 2497.72 L3478.61 2497.72 L3838.85 2497.72 L3838.85 2637.94 L3478.61 2637.94 L3478.61 2497.72 Z" stroke-linecap="round"/>
+	</defs>
+	<defs>
+		<clipPath id="clipPath108">
+			<use xlink:href="#path108"/>
+		</clipPath>
+	</defs>
+	<use xlink:href="#path108" style="stroke:none;fill:#800026"/>
+	<use xlink:href="#path108" style="fill:none;stroke:#800026;stroke-width:8.64" clip-path="url(#clipPath108)"/>
+	<text x="513.69" y="400.60" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="end">BuGn</text>
+	<text x="513.69" y="600.83" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="end">BuPu</text>
+	<text x="513.69" y="801.06" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="end">GnBu</text>
+	<text x="513.69" y="1001.17" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="end">OrRd</text>
+	<text x="513.69" y="1201.41" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="end">PuBu</text>
+	<text x="513.69" y="1401.64" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="end">PuBuGn</text>
+	<text x="513.69" y="1601.75" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="end">PuRd</text>
+	<text x="513.69" y="1801.99" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="end">RdPu</text>
+	<text x="513.69" y="2002.22" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="end">YlGn</text>
+	<text x="513.69" y="2202.45" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="end">YlGnBu</text>
+	<text x="513.69" y="2402.56" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="end">YlOrBr</text>
+	<text x="513.69" y="2602.80" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="end">YlOrRd</text>
+	<text x="777.15" y="2791.16" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">1</text>
+	<text x="1137.39" y="2791.16" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">2</text>
+	<text x="1497.50" y="2791.16" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">3</text>
+	<text x="1857.73" y="2791.16" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">4</text>
+	<text x="2217.97" y="2791.16" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">5</text>
+	<text x="2578.21" y="2791.16" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">6</text>
+	<text x="2938.44" y="2791.16" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">7</text>
+	<text x="3298.56" y="2791.16" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">8</text>
+	<text x="3658.79" y="2791.16" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">9</text>
+	<text x="2217.97" y="172.79" style="font-family:'Helvetica';font-size:139.96px;fill:#1E2D53" text-anchor="middle">ColorBrewer sequential (multi-hue)</text>
+</svg>
