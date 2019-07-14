@@ -6,6 +6,6 @@ d Date: Jul 15 2019
 
 f panelview.ado
 f panelview.sthlp
-f simdata.dta
-f capacity.dta
-f turnout.dta
+f eg_simdata.dta
+f eg_capacity.dta
+f eg_turnout.dta
