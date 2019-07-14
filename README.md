@@ -1,10 +1,10 @@
 # panelViewStata
-Stata Version of [`panelView`][1]
+Stata Version of [panelView][1]
 [1]: https://github.com/xuyiqing/panelView
 
-For the latest report, please refer to [The Latest Report][1].
+For the latest report, please refer to [The Latest Report][2].
 
-[1]: /03report/7.14report.md
+[2]: /03report/7.14report.md
 
 ## Install
 
