@@ -6,7 +6,7 @@ Jul 14 2019
 capture program drop panelview
 
 program define panelview
-	version 14.1
+	version 13.0
 	syntax varlist(min = 2 max = 2 numeric) [if] [in] [, ///
 	I(varname) T(varname numeric)	///
 	TYPE(string)					///
@@ -17,20 +17,20 @@ program define panelview
 	continuoustreat					///
 	*								///
 	]
-	
+
 	tokenize `varlist'
 	loc outcome `1'
 	loc treat `2'
-	
+
 
 	///making backup
 	tempfile backup
 	quietly save `backup'
-	
+
 	///mark to use sample
 	marksample touse
 
-	
+
 	if "`i'`t'" != "" {
 		// user supplied time and panel variables
 		if "`t'" == "" {
@@ -54,10 +54,10 @@ program define panelview
 	if r(N) == 0 {
 		error 2000
 	}
-	
+
 	local ids `i'
 	local tunit `t'
-	
+
 	/// check if id is encoded
 	tempvar nids
 	capture confirm numeric variable `ids'
@@ -67,7 +67,7 @@ program define panelview
 	else {
 		gen `nids' = `ids'
 	}
-	
+
 	//check for bad option combinations
 	if "`continuoustreat'" != "" {
 		if "`prepost'" != "off" {
@@ -86,9 +86,9 @@ program define panelview
 			exit 198
 		}
 	}
-	
-	
-	
+
+
+
 	///deciding controll or treatment
 	preserve
 	tempfile tmp
@@ -100,25 +100,25 @@ program define panelview
 	restore
 	qui merge m:1 `nids' using `tmp'
 	drop _merge
-	
+
 	///turnback to original order
-	sort `ids' `tunit' 
-	
-	
-	
+	sort `ids' `tunit'
+
+
+
 	///lets sort by time of first treatment!
 	if "`bytiming'" != "" {
 		qui findfile sencode.ado
-	
+
 		if "`r(fn)'" == "" {
          di as txt "user-written package sencode needs to be installed first;"
          di as txt "use -ssc install sencode- to do that"
          exit 498
 		}
-	
 
-		
-		tempvar bytime 
+
+
+		tempvar bytime
 		tempfile tmp2
 		gen `bytime' = .
 		replace `bytime' = `tunit' if `treat' > = 1
@@ -129,19 +129,19 @@ program define panelview
 		drop `bytime'
 		qui merge m:1 `nids' using `tmp2'
 		drop _merge
-		
+
 		tempvar nids2
 		tempvar nids3
 		decode `ids', generate(`nids2')
 		sencode `nids2', generate(`nids3') gsort(`bytime')
 		replace `ids' = `nids3'
-		
+
 	}
-	
+
 	qui levelsof `nids' if `touse' , loc (levsnids)
 	capture drop _merge
 
-	
+
 	tempvar plotvalue
 	gen `plotvalue' = `treat'
 	///remapping continuous treatment to 9 levels to fit color palettes levels:
@@ -151,13 +151,13 @@ program define panelview
 		qui replace `plotvalue' = int((`plotvalue' - r(min)) * 9 / `maxminplotvalue' )
 
 	}
-	
-	
+
+
 	qui levelsof `plotvalue' if `touse', loc (levsplot)
 	loc numlevsplot = r(r)
-	
-	
-	
+
+
+
 	///deciding prepost:
 	if "`prepost'" != "off" {
 		foreach x of loc levsplot {
@@ -167,26 +167,26 @@ program define panelview
 		qui levelsof `plotvalue' if `touse', loc (levsplot)
 		loc numlevsplot = r(r)
 	}
-	
-	
-	
+
+
+
 	///deciding color
 		///check whether colorpalette is installed:
 	qui findfile colorpalette.ado
-	
+
 	if "`r(fn)'" == "" {
          di as txt "user-written package palettes needs to be installed first;"
          di as txt "use -ssc install palettes- to do that"
          exit 498
 	}
 
-	
-	
+
+
 	colorpalette Reds , n(`numlevsplot') nograph
 
 	if (`"`mycolor'"' != "") {
 		colorpalette `mycolor' , n(`numlevsplot') nograph
-		
+
 	}
 	qui return list
 	foreach w of loc levsplot {
@@ -199,7 +199,7 @@ program define panelview
 
 	}
 
-	
+
 	///deciding plot coef unit
 	qui su `tunit'
 	loc maxmintime = r(max) - r(min)
@@ -207,65 +207,65 @@ program define panelview
 	loc numsoftime = r(r)
 	loc plotcoef = `maxmintime' / (`numsoftime' -1)
 
-		
 
-	
-	
-	
-	
+
+
+
+
+
 	if ("`type'" == "outcome") {
 	///ploting outcome:
-		
+
 		if ("`discrete'" == "" ) {
 		///plotting lines of continuous outcome:
-			
-			
+
+
 			loc lines1
-			
+
 			foreach w of loc levsplot {
 				loc thiscol = `"`col`w''"'
 				di "`thiscol'"
 				foreach x of loc levsnids {
 					///ploting the gaps
 					if (`"`prepost'"' != "off" & `w' == 1 ) {
-					
+
 						loc lines1 `" `lines1' || line `outcome' `tunit' if `nids' == `x' & `gcontrol' == 0 & `touse' , lcolor("`col`w''") "'
 					}
 					else if (`"`prepost'"' == "off" & `w' == 0 ) {
-					
+
 						loc lines1 `" `lines1' || line `outcome' `tunit' if `nids' == `x' & `gcontrol' == 0 & `touse' , lcolor("`col`w''") "'
 					}
-					
-					
+
+
 					loc lines1 `" `lines1' || line `outcome' `tunit' if `nids' == `x' & `plotvalue' == `w' & `touse' , lcolor("`col`w''") "'
 				}
 			}
-			
-			
+
+
 			di `"`lines1'"'
 			tw `lines1' , legend(off) `options'
-			
-			
-			
-			
-			
-		} 
+
+
+
+
+
+		}
 		else {
 		///plotting dots of discrete outcome:
-		
+
 			///add some randomness to time units and outcome so that they can scatter around:
 			di "now display dots of discrete outcome"
 			tempvar rout rtime
 			gen `rtime' = `tunit' + runiform(-0.2, 0.2)
 			gen `rout' = `outcome' + runiform(-0.2, 0.2)
-			
+
 			///beta:
 			loc dot1
-			
+
 			foreach w of loc levsplot {
 				loc dot1 `" `dot1' || sc `rout' `rtime' if `plotvalue' == `w' & `touse' , mcolor("`col`w''")   "'
 			}
-			
+
 			if (`"`prepost'"' != "off") {
 				tw `dot1' legend(label(1 "Control") label(2 "Treated (Pre)") label(3 "Treated (Post)")) ytitle("`outcome'") xtitle("`tunit'") `options'
 			}
@@ -274,14 +274,14 @@ program define panelview
 			}
 		}
 	}
-	
+
 	else if ("`type'" == "treat"){
 	///heatmap of treatment:
 
 			////hmap
 		xunits `tunit' `touse'
-		
-		
+
+
 		loc xdist= `plotcoef' * r(units)
 
 		xunits `ids' `touse'
@@ -308,9 +308,9 @@ program define panelview
 		loc maxlev=r(max)
 
 		loc gcom
-		
+
 		di `levsplot'
-		
+
 		if (`"`continuoustreat'"' != "off") {
 			foreach w of loc levsplot{
 				loc gcom `"`gcom'||rbar `y1' `y0' `tunit' if (`plotvalue'==`w')&(`touse'), barw(`xdist') col("`col`w''") fi(inten100) lw(none)"'
@@ -326,19 +326,19 @@ program define panelview
 
 		tw `gcom' plotr(fc(white) m(zero)) ||`sc' `options'
 	}
-	
 
-	
-	
-	
-	
+
+
+
+
+
 	///restoring backup
 	use `backup' , replace
-	
+
 end
 
 capture program drop xunits
-program xunits, rclass 
+program xunits, rclass
 	args v touse
 	qui summ `v' if `touse', mean
 	loc p = 1
@@ -358,7 +358,3 @@ program xunits, rclass
 	}
 	return scalar units = `p'
 end
-
-
-
-
