@@ -6,7 +6,7 @@ Jul 14 2019
 capture program drop panelview
 
 program define panelview
-	version 13.0
+	version 10.0
 	syntax varlist(min = 2 max = 2 numeric) [if] [in] [, ///
 	I(varname) T(varname numeric)	///
 	TYPE(string)					///
@@ -171,8 +171,8 @@ program define panelview
 
 
 	///deciding color
-		///check whether colorpalette is installed:
-	qui findfile colorpalette.ado
+		///check whether colorpalette9 is installed:
+	qui findfile colorpalette9.ado
 
 	if "`r(fn)'" == "" {
          di as txt "user-written package palettes needs to be installed first;"
@@ -182,10 +182,10 @@ program define panelview
 
 
 
-	colorpalette Reds , n(`numlevsplot') nograph
+	colorpalette9 Greens , n(`numlevsplot') nograph
 
 	if (`"`mycolor'"' != "") {
-		colorpalette `mycolor' , n(`numlevsplot') nograph
+		colorpalette9 `mycolor' , n(`numlevsplot') nograph
 
 	}
 	qui return list
